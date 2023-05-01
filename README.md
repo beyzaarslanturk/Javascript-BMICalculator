@@ -15,3 +15,6 @@ My achievements were:
 
 
 ## If you want to see my project <a href="https://beyzaarslanturk-bmicalculator.netlify.app">Click Here!</a> 
+
+![alt text](https://github.com/beyzaarslanturk/Javascript-BMICalculator/blob/master/screencapture-beyzaarslanturk-bmicalculator-netlify-app-2023-05-02-01_46_25.png)
+
